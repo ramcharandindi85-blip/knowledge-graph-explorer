@@ -1,0 +1,50 @@
+source,target,relation_type
+Programming Basics,Variables and Data Types,prerequisite
+Variables and Data Types,Control Flow,prerequisite
+Control Flow,Functions,prerequisite
+Functions,Recursion,prerequisite
+Functions,Object-Oriented Programming,prerequisite
+Variables and Data Types,Arrays,prerequisite
+Arrays,Linked Lists,prerequisite
+Arrays,Stacks,prerequisite
+Arrays,Queues,prerequisite
+Linked Lists,Queues,prerequisite
+Arrays,Hash Tables,prerequisite
+Recursion,Trees,prerequisite
+Linked Lists,Trees,prerequisite
+Trees,Graphs,prerequisite
+Discrete Mathematics,Graphs,prerequisite
+Functions,Algorithm Complexity,prerequisite
+Discrete Mathematics,Algorithm Complexity,prerequisite
+Algorithm Complexity,Sorting,prerequisite
+Arrays,Sorting,prerequisite
+Arrays,Searching,prerequisite
+Algorithm Complexity,Searching,prerequisite
+Recursion,Dynamic Programming,prerequisite
+Algorithm Complexity,Dynamic Programming,prerequisite
+Graphs,Graph Algorithms,prerequisite
+Queues,Graph Algorithms,prerequisite
+Stacks,Graph Algorithms,prerequisite
+Sorting,Greedy Algorithms,prerequisite
+Algorithm Complexity,Greedy Algorithms,prerequisite
+Discrete Mathematics,Relational Model,prerequisite
+Relational Model,SQL,prerequisite
+SQL,Normalization,prerequisite
+SQL,Transactions,prerequisite
+Functions,Operating Systems,prerequisite
+Operating Systems,Processes and Threads,prerequisite
+Operating Systems,Memory Management,prerequisite
+Arrays,Memory Management,prerequisite
+Programming Basics,Computer Networks,prerequisite
+Computer Networks,TCP/IP,prerequisite
+TCP/IP,HTTP,prerequisite
+Discrete Mathematics,Probability,prerequisite
+Linear Algebra,Machine Learning,prerequisite
+Probability,Machine Learning,prerequisite
+Machine Learning,Supervised Learning,prerequisite
+Supervised Learning,Neural Networks,prerequisite
+Linear Algebra,Neural Networks,prerequisite
+Graph Algorithms,Computer Networks,related
+Transactions,Processes and Threads,related
+Trees,SQL,related
+Hash Tables,SQL,related

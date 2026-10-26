@@ -1,0 +1,36 @@
+name,category,description
+Programming Basics,Programming,Core ideas of writing and running programs
+Variables and Data Types,Programming,Storing values such as numbers and text
+Control Flow,Programming,Decisions and loops that direct a program
+Functions,Programming,Reusable blocks of code with inputs and outputs
+Recursion,Programming,A function that solves a problem by calling itself
+Object-Oriented Programming,Programming,Organizing code into classes and objects
+Arrays,Data Structures,Fixed order collection with index access
+Linked Lists,Data Structures,Chain of nodes where each points to the next
+Stacks,Data Structures,Last in first out collection
+Queues,Data Structures,First in first out collection
+Hash Tables,Data Structures,Key to value lookup using a hash function
+Trees,Data Structures,Hierarchical structure of parent and child nodes
+Graphs,Data Structures,Nodes connected by edges
+Algorithm Complexity,Algorithms,Measuring running time and memory with Big O
+Sorting,Algorithms,Arranging items in a defined order
+Searching,Algorithms,Finding an item in a collection
+Dynamic Programming,Algorithms,Solving problems by reusing stored sub-results
+Graph Algorithms,Algorithms,Traversal and shortest path methods on graphs
+Greedy Algorithms,Algorithms,Choosing the best local option at each step
+Relational Model,Databases,Organizing data into tables of rows and columns
+SQL,Databases,Language used to query relational databases
+Normalization,Databases,Structuring tables to reduce redundancy
+Transactions,Databases,Groups of operations that succeed or fail together
+Machine Learning,Machine Learning,Systems that learn patterns from data
+Supervised Learning,Machine Learning,Learning from labeled examples
+Neural Networks,Machine Learning,Layered models inspired by the brain
+Operating Systems,Systems,Software that manages hardware and programs
+Processes and Threads,Systems,Units of execution managed by the OS
+Memory Management,Systems,How the OS allocates and frees memory
+Computer Networks,Networking,Connected computers that exchange data
+TCP/IP,Networking,Core protocol suite of the internet
+HTTP,Networking,Protocol used by the web
+Discrete Mathematics,Mathematics,Logic sets and counting for computer science
+Probability,Mathematics,Measuring how likely events are
+Linear Algebra,Mathematics,Vectors and matrices
